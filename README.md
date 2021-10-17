@@ -1,2 +1,3 @@
-# renovate
-RenovateBot tester
+# Renovate
+
+Personal renovateBot tester repository
