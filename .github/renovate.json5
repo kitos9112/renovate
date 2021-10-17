@@ -112,7 +112,6 @@
       "matchUpdateTypes": ["patch"],
       "semanticCommitType": "fix",
       "labels": ["renovate/image", "dep/patch"],
-      "automerge": true,
       "ignoreTests": true
     },
     {
@@ -132,7 +131,6 @@
       "matchUpdateTypes": ["patch"],
       "semanticCommitType": "fix",
       "labels": ["renovate/helm", "dep/patch"],
-      "automerge": true,
       "ignoreTests": true
     },
     // custom version schemes
