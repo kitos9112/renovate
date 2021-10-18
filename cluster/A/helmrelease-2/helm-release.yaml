@@ -22,7 +22,7 @@ spec:
         tag: v0.51.2
       thanosImage:
         repository: quay.io/thanos/thanos
-        tag: v0.22.0
+        tag: v0.23.1
       thanos:
         image:
           repository: quay.io/thanos/thanos:v0.23.1
