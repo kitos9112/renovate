@@ -25,4 +25,4 @@ spec:
         tag: v0.22.0
       thanos:
         image:
-          repository: quay.io/prometheus-operator/prometheus-operator:v0.50.0
+          repository: quay.io/thanos/thanos:v0.23.1
