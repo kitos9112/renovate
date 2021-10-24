@@ -26,3 +26,7 @@ spec:
       thanos:
         image:
           repository: quay.io/thanos/thanos:v0.22.0
+    minio:
+      image:
+        repository: quay.io/minio/minio
+        tag: RELEASE.2021-10-13T00-23-17Z
